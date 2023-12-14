@@ -1,5 +1,5 @@
-import com.mysite.sbb.user.SiteUser;
-import com.mysite.sbb.user.UserRepository;
+package com.mysite.sbb.user;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
