@@ -46,4 +46,6 @@ public class QuestionController {
         // TODO 질문을 저장한다.
         return "redirect:/question/list"; // 질문 저장후 질문목록으로 이동
     }
+
+
 }
